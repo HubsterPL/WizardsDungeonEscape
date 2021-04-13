@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ResetObjectTrigger
+  - TrapDamageTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - Player
+  - Ignore Player
+  - Post-process
+  - Interactive
+  - PressurePlate
+  - OneWayPlatform
+  - ObstacleIgnorePlatform
+  - Entity
+  - EntityIgnorePlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG_Props
+    uniqueID: 2897796257
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PlayerLayer
+    uniqueID: 893583443
+    locked: 0
+  - name: UI
+    uniqueID: 45533081
+    locked: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbe2c98723dc4a4478e68060d0ab1768, type: 3}
+  m_Name: Game Settings
+  m_EditorClassIdentifier: 
+  outlineProximityInteractive: {r: 0.36862746, g: 1.4352942, b: 0, a: 1}
+  outlineProximityLocked: {r: 0.8490566, g: 0.1481844, b: 0.1481844, a: 1}
+  outlineTelekinesis: {r: 1.3411765, g: 0.44705883, b: 1.4980392, a: 1}
+  outlineTelekinesisActive: {r: 2.7618759, g: 0.76533914, b: 2.828427, a: 1}
+  outlineFreeze: {r: 0, g: 1.1294118, b: 4, a: 1}
+  levels:
+  - {fileID: 11400000, guid: 43ab800335509f148b2468dcf79eceac, type: 2}
+  - {fileID: 11400000, guid: 4171e5efb677d0b4fb856819822b8346, type: 2}
+  freezeStatusBarPrefab: {fileID: 7113443256258926334, guid: fc0980f1d6164bb4588730af13a37a83,
+    type: 3}
